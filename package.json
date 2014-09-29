@@ -1,0 +1,24 @@
+{
+  "name": "hubot-pusheen",
+  "version": "0.0.0",
+  "description": "Pusheen the cat, to your hubot",
+  "main": "index.coffee",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/motemen/hubot-pusheen"
+  },
+  "keywords": [
+    "hubot",
+    "hubot-scripts",
+    "pusheen"
+  ],
+  "author": "motemen <motemen@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/motemen/hubot-pusheen/issues"
+  },
+  "homepage": "https://github.com/motemen/hubot-pusheen"
+}
