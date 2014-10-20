@@ -1,6 +1,6 @@
 {
   "name": "hubot-pusheen",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Pusheen the cat, to your hubot",
   "main": "index.coffee",
   "scripts": {
