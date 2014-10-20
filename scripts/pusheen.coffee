@@ -17,5 +17,4 @@ module.exports = (robot) ->
       .get() (err, res, body) ->
         entries = JSON.parse(body)
         photos = Array.prototype.concat.apply([], entries.map (e) -> e.photos)
-        console.log(photos)
         msg.send photos[Math.floor(Math.random() * photos.length)].url
